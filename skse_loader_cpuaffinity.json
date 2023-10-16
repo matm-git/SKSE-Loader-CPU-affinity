@@ -1,0 +1,5 @@
+{ 
+	"game_mode":1,
+	"comment":"game_mode 1 for SyrimVR; 2 for Skyrim SSE",
+	"cpu_cores":6
+}
